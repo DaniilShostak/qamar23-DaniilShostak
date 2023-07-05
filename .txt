@@ -1,1 +1,1 @@
-Add sign_in and sign_up tests
+Add settings test suite
